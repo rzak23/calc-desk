@@ -1,0 +1,26 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "Source Code Calculator with ElectronJS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzak23/calc-desk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzak23/calc-desk/issues"
+  },
+  "homepage": "https://github.com/rzak23/calc-desk#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
